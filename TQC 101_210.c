@@ -1,4 +1,4 @@
-迴聲“＃TQC” >> README.md //a072: T101
+//a072: T101
 #include <stdio.h>
 #include <stdlib.h>
 
